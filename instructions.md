@@ -57,7 +57,7 @@ It is important to take a few minutes at the end to display the correct combinat
 If several groups are playing, speed can be an additional stake.
 
 ### Audience
-The 4 contexts proposed on the bottom line can be adapted according to the audience.
+The 4 contexts of publication displayed on the bottom line can be adapted according to the audience.
 
 ### Rounds
 The 2 rounds can be played in a row. However, a break can be introduced in between to make sure everyone has it right before starting the second round.
