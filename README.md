@@ -26,4 +26,7 @@ They are made aware of
 The Copyright Compliance Bingo is a good way to raise awareness and participants' questions will lead to a more in-depth discussion.
 
 ## Contact
-We would love to hear your feedback about this game. Feel free to contact us as well is you have any question. Send us an email at formations.bib [at] epfl.ch !
+We would love to hear your feedback about this game. Feel free to contact us as well is you have any question. Send us an email at formations.bib [at] epfl.ch ! 
+Short URL for this page is : [go.epfl.ch/CCB](https://go.epfl.ch/CCB) 
+
+![](/img/playing2.jpg)
