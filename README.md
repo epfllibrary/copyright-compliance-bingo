@@ -27,6 +27,6 @@ The Copyright Compliance Bingo is a good way to raise awareness and participants
 
 ## Contact
 We would love to hear your feedback about this game. Feel free to contact us as well is you have any question. Send us an email at formations.bib [at] epfl.ch ! 
-Short URL for this page is : [go.epfl.ch/CCB](https://go.epfl.ch/CCB) 
+Short URL for this page is : [go.epfl.ch/CCB](https://go.epfl.ch/CCB)
 
 ![](/img/playing2.jpg)
