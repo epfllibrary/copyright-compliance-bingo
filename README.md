@@ -18,7 +18,6 @@ By playing the Copyright Compliance Bingo, the participants understand :
 
 - how to deal with copyright when reusing images or graphs in a given context
 - the educational purpose clause
-They are made aware of
 - Creative Commons licenses
 - the influence of the origin of an image/graph (published or not)
 - alternative solutions to stay copyright compliant
