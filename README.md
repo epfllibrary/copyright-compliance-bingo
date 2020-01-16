@@ -16,11 +16,11 @@ In this repository, you will find:
 ## Learning Outcomes
 By playing the Copyright Compliance Bingo, the participants understand :
 
-- how to deal with copyright when reusing images or graphs in a given context
-- the educational purpose clause
+- How to deal with copyright when reusing images or graphs in a given context
+- The educational purpose clause
 - Creative Commons licenses
-- the influence of the origin of an image/graph (published or not)
-- alternative solutions to stay copyright compliant
+- The influence of the origin of an image/graph (published or not)
+- Alternative solutions to stay copyright compliant
 
 The Copyright Compliance Bingo is a good way to raise awareness and participants' questions will lead to a more in-depth discussion.
 
